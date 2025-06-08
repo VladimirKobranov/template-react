@@ -17,9 +17,9 @@ npm run dev
 
 ## Stack
 
-- React 18 + TypeScript
+- React 18 + JavaScript
 - Vite 6
 - Tailwind CSS 4
-- Radix UI (Slider, Slot)
+- Shadcn
 - Zustand
 - Lucide React icons
